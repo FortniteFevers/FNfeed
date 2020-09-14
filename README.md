@@ -6,10 +6,6 @@ FeversBR is a utility which generates the current Fortnite News Updates and shar
 
 As seen on [@FeversBot](https://twitter.com/FeversBot/status/1305561300823613440)...
 
-<p align="center">
-    <img src="blob:"blob:https://imgur.com/dba6cb28-f0e4-4630-b3d8-81a9dc6a9e7a" draggable="false">
-</p>
-
 ## Requirements
 
 - [Python 3.8](https://www.python.org/downloads/)
@@ -21,14 +17,10 @@ As seen on [@FeversBot](https://twitter.com/FeversBot/status/1305561300823613440
 The following languages are supported:
 ar / de / en / es / es-419 / fr / it / ja / ko / pl / pt-BR / ru / tr / zh-CN / zh-Hant
 
-to change to another language, replace every time this url is in the script (https://fortnite-api.com/v2/news/br) with https://fortnite-api.com/v2/news/br?language=YOUR_LANGUAGE
-
-
 ## Usage
 
 Open ```bot.py``` in a prefered text editor, and enter your twitter api keys where needed. You can get api keys [here.](https://developer.twitter.com)
 You can also edit the delay time if needed. The reccomended time is ```5 seconds```
-
 
 ```
 MAKE SURE YOU ADD A FOLDER WITHIN THE MASTER FOLDER TITLED "NewsImages"!!
@@ -42,7 +34,6 @@ To run the program all you got to do is open bot.py!
 ```
 
 This program does not need to be ran using a scheduler, as it runs in the background and checks every 5 seconds for the news feed.
-
 
 ## Credits
 
