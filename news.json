@@ -1,0 +1,36 @@
+{
+   "status": 200,
+   "data": {
+      "hash": "68ce28717121ebd293276f9fd58173e0e0f15284",
+      "date": "2020-09-14T15:13:18Z",
+      "image": "https://cdn.fortnite-api.com/news/v2/68ce28717121ebd293276f9fd58173e0e0f15284.gif",
+      "motds": [
+         {
+            "id": "X-wing Glider links to EGS Page",
+            "title": "X-wing Glider",
+            "tabTitle": "S-Foils in Attack Position",
+            "body": "Grab the Vanguard Squadron X-wing Glider in the Item Shop now. Or, grab STAR WARS\u2122: Squadrons on the Epic Games Store and get the Glider as a free bonus!",
+            "image": "https://cdn2.unrealengine.com/fn-swsquadron-motd-1920x1080-1920x1080-009253643.jpg",
+            "tileImage": null,
+            "sortingPriority": 80
+         },
+         {
+            "id": "Beach Bomber links to Item Shop",
+            "title": "Beach Bomber",
+            "tabTitle": null,
+            "body": "The queen of sunshine is ready to take on the summer by storm!",
+            "image": "https://cdn2.unrealengine.com/br14-motd-beachbomber-1920x1080-1920x1080-977878416.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/br14-motd-beachbomber-1024x512-1024x512-977878415.jpg",
+            "sortingPriority": 70
+         }
+      ],
+      "messages": [
+         {
+            "title": "Keep Your Account Secure",
+            "body": "Avoid scam sites offering free V-Bucks. Epic will never ask for your password. Enable Two-Factor Authentication to help stay secure!",
+            "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v42/BR04_MOTD_Shield-1024x512-75eacc957ecc88e76693143b6256ba06159efb76.jpg",
+            "adspace": null
+         }
+      ]
+   }
+}
