@@ -48,7 +48,3 @@ This program does not need to be ran using a scheduler, as it runs in the backgr
 
 - News Feed data provided by [Fortnite-API](https://fortnite-api.com)
 - Help by [Thomas Keig](https://twitter.com/fortbrleaks)
-
-```
-If this program does not work for you / takes up to much ram, send me a DM on twittter and I can host a bot for you!
-```
